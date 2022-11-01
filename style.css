@@ -122,3 +122,27 @@ a {
     width: 170px;
     color: gray;
 }
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+    padding: 100px 300px 100px 300px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1f2937;
+    width: 775px;
+    align-self: center;
+}
+
+.person {
+    font-size: 24px;
+    color: #000000;
+    font-weight: bold;
+    width: 775px; 
+    text-align: end;
+}
